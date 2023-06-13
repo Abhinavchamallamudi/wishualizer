@@ -7,13 +7,13 @@
     .fandom_vier{fill:#333333;}
     .fandom_negen{fill:#666666;}
     .fandom_tien{fill:#999999;}
-    .st0{fill:#CCCCCC;}
-    .st1{fill:#FFFFFF;}
-    .st2{fill:#DDDDDD;}
-    .st3{fill:#AAAAAA;}
-    .st4{fill:#EEEEEE;}
+    .st0{fill:#8ecae6;}
+    .st1{fill:#219ebc;}
+    .st2{fill:#023047;}
+    .st3{fill:#ffb703;}
+    .st4{fill:#0077b6;}
     .st5{fill:#111111;}
-    .st6{fill:#444444;}
+    .st6{fill:#89c2d9;}
     .st7{fill:#777777;}
     .st8{fill:#BBBBBB;}
     .st9{fill:#888888;}
