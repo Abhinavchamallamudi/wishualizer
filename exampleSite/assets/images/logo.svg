@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- License: CC Attribution. Made by Carol Liao: https://dribbble.com/thecarolizer -->
 <svg version="1.1" id="Uploaded to svgrepo.com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
-	 width="800px" height="800px" viewBox="0 0 64 64" xml:space="preserve">
+	 width="300px" height="300px" viewBox="0 0 64 64" xml:space="preserve">
 <style type="text/css">
-	.fandom_drie{fill:#BE9148;}
-	.fandom_vier{fill:#FFC865;}
-	.fandom_negen{fill:#685683;}
-	.fandom_tien{fill:#8579A3;}
-	.st0{fill:#FF786E;}
-	.st1{fill:#BE5652;}
-	.st2{fill:#EFEAE0;}
-	.st3{fill:#AA9991;}
-	.st4{fill:#FFFAFA;}
-	.st5{fill:#644638;}
-	.st6{fill:#6BC4D2;}
-	.st7{fill:#508D9B;}
-	.st8{fill:#4B322A;}
-	.st9{fill:#4D4D4D;}
-	.st10{fill:#3A3A3A;}
-	.st11{fill:#808080;}
-	.st12{fill:#CCCCCC;}
-	.st13{fill:#666666;}
-	.st14{fill:#018273;}
-	.st15{fill:#00B3AA;}
+    .fandom_drie{fill:#000000;}
+    .fandom_vier{fill:#333333;}
+    .fandom_negen{fill:#666666;}
+    .fandom_tien{fill:#999999;}
+    .st0{fill:#CCCCCC;}
+    .st1{fill:#FFFFFF;}
+    .st2{fill:#DDDDDD;}
+    .st3{fill:#AAAAAA;}
+    .st4{fill:#EEEEEE;}
+    .st5{fill:#111111;}
+    .st6{fill:#444444;}
+    .st7{fill:#777777;}
+    .st8{fill:#BBBBBB;}
+    .st9{fill:#888888;}
+    .st10{fill:#555555;}
+    .st11{fill:#222222;}
+    .st12{fill:#EEEEEE;}
+    .st13{fill:#CCCCCC;}
+    .st14{fill:#999999;}
+    .st15{fill:#666666;}
 </style>
 <g>
 	<g>
