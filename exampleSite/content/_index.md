@@ -1,9 +1,9 @@
 ---
 # banner
 banner:
-  title: "Andromeda is the most intuitive way to prototype Designs"
+  title: "Wishualizer is the most intuitive way to bring your thoughts to life."
   button: "Get Premium Version"
-  button_link: "https://gethugothemes.com/products/andromeda/"
+  button_link: "https://gethugothemes.com/products/Wishualizer/"
   image: "images/banner-app.png"
 
 
